@@ -106,5 +106,4 @@
 <style lang="sass">
   @import '../styles/colours'
   @import '../styles/variables'
-  @import '../styles/mixins'
 </style>

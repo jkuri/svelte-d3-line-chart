@@ -9,7 +9,6 @@
 
 	@import './styles/colours'
 	@import './styles/variables'
-	@import './styles/mixins'
 
 	@import 'bulma/sass/base/minireset'
 	@import 'bulma/sass/utilities/all'
